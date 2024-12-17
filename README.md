@@ -24,7 +24,7 @@ you should be able to post messages and double click them to delete them from th
 
 ## Credits
 
-big thanks for Traversy Media's youtube channel for putting up the tutorial needed to set this up
+big thanks for TraversyMedia's youtube channel for putting up the tutorial needed to set this up
 
 ## License
 

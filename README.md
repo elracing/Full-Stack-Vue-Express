@@ -17,6 +17,7 @@ npm install to get dependencies
 
 ## Usage
 
+![Screenshot 2024-12-15 145340](https://github.com/user-attachments/assets/1c4d9d13-0e68-4479-ae0d-9f0e78153ccf)
 
 use npm run dev within the root folder to run the backend.
 use npm run serve within the client folder to run the Vue frontend.

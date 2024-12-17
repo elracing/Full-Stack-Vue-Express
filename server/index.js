@@ -15,7 +15,7 @@ app.use('/api/posts', posts);
 
 // Handle production
 
-if(process.env.NODE_END == 'production'){
+if(process.env.NODE_END === 'production'){
     //static folder
     app.use(express.static(__dirname, + '/public'));
 

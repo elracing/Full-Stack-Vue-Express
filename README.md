@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a short application that shows a working fullstack project in the form of a message board. This is done through vue using the express API, mongoDB and can be connected to any cloud hosting service for deployment such as vercel (heroku was the previous choice, but there is no longer a free tier to use it). Users should be able to post and delete messages within the page.
+This is a short application that shows a working fullstack project in the form of a message board. This is done through vue using the express API, mongoDB. Users should be able to post and delete messages within the page.
 ## Table of Contents (Optional)
 
 

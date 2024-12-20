@@ -19,6 +19,11 @@ npm install to get dependencies
 
 ![Screenshot 2024-12-15 145340](https://github.com/user-attachments/assets/1c4d9d13-0e68-4479-ae0d-9f0e78153ccf)
 
+demo recording:
+https://github.com/user-attachments/assets/efb5a5bc-6124-4fed-aa1e-bd346a25b862
+
+
+
 use npm run dev within the root folder to run the backend.
 use npm run serve within the client folder to run the Vue frontend.
 you should be able to post messages and double click them to delete them from the client side.
